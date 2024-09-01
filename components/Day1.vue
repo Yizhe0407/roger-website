@@ -13,7 +13,7 @@
         <p class="p-2">雖然飛機內備有電視供觀賞和娛樂，然而在那狹小的空間裡熬過漫長的飛行時間，對於現代人來說可謂一種煎熬。</p>
         <p class="p-2">這同時也是我第一次嘗試飛機餐。儘管飛機餐的口感略帶冷凍食品的感覺，但卻頗具新奇。</p>
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/airplane meal.jpg" sizes="100vw sm:50vw md:400px"
+            <NuxtImg class="rounded-md" src="https://i.imgur.com/xtSsTel.jpeg" sizes="100vw sm:50vw md:400px"
                 placeholder="/loading.gif" loading="lazy" />
         </div>
         <p class="p-2">
