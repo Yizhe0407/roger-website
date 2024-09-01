@@ -4,14 +4,14 @@
     <div class="text-lg">
         <p class="p-2">清晨六點，太陽已經照在我的臉上，我整理好行囊後下樓去享用早餐。這間飯店的早餐提供了各種各樣的美食選擇。</p>
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/breakfast.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md" src="https://imgur.com/x5LqIUA.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" />
         </div>
         <p class="p-2">
             吃完早餐後，就立即前往SIEMENS展開為期兩天的實習。到達目的地後，我首先接受了關於SIEMENS的一些技術講解。他們介紹了PLC（可程式邏輯控制器）、工業邊緣運算、雲端運算、物聯網、能源管理、數位孖生等領域的技術。
         </p>
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/20230606_092619.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md" src="https://imgur.com/yE3ydx3.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" />
         </div>
         <p class="p-2">
@@ -24,22 +24,22 @@
 
         <div class="flex justify-center">
             <div class="p-2">
-                <NuxtImg class="rounded-md w-full" src="/20230606_121224.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md w-full" src="https://imgur.com/FLuKCDo.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
             </div>
             <div class="p-2">
-                <NuxtImg class="rounded-md w-full" src="/20230606_124543.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md w-full" src="https://imgur.com/M06zSy8.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
             </div>
         </div>
 
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/car.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md" src="https://imgur.com/yDfHZsk.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" />
         </div>
         <p class="p-2">今天的晚餐SIEMENS特地邀請了廚師到工廠外面為我們烹飪，讓我們享受一頓豐盛的晚餐。</p>
         <div class="p-2">
-            <NuxtImg class="rounded-md w-full md:w-1/3" src="/20230606_165101.jpg" placeholder="/loading.gif"
+            <NuxtImg class="rounded-md w-full md:w-1/3" src="https://imgur.com/YaIjlma.jpeg" placeholder="/loading.gif"
                 loading="lazy" sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
         </div>
     </div>
