@@ -11,11 +11,11 @@
         <p class="p-2">然而，旅程的結束並不代表一切結束。這些回憶和經驗將成為我人生中的寶貴財富，激勵著我繼續追求新的目標和夢想。我將帶著這段寶貴的經歷回到家鄉，與親朋好友分享我的故事，並將它們融入我的生活中。</p>
         <p class="p-2">離別是為了再相逢，我相信我們將來會再次相聚，繼續創造更多美好的回憶。感謝這段難忘的旅程，我會將它永遠記在心中，並期待著下一次的冒險和探索。</p>
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/20230615_212053.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md" src="https://imgur.com/f0NvfiM.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" />
         </div>
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/20230616_101105.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md" src="https://imgur.com/xBE7tTQ.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" />
         </div>
     </div>

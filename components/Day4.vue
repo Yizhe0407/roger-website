@@ -14,18 +14,18 @@
                 </p>
             </div>
             <div class="w-full md:w-1/3 p-2">
-                <NuxtImg class="rounded-md" src="/siemens-2.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md" src="https://imgur.com/fmTrbgE.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" />
             </div>
         </div>
 
         <div class="flex flex-wrap">
             <div class="w-full md:w-1/3 p-2">
-                <NuxtImg class="rounded-md" src="/siemens-3.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md" src="https://imgur.com/UMrrU3p.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
             </div>
             <div class="w-full md:w-2/3 p-2">
-                <NuxtImg class="rounded-md" src="/siemens-1.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md" src="https://imgur.com/dj4oPCc.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" />
                 <p class="p-2">下午，我們抵達了因哥爾斯塔特購物村，終於到了購物的時刻。我在COACH購買了一副太陽眼鏡。</p>
                 <p class="p-2">在網上我看到這副太陽眼鏡的價格是155歐元，但在購物村裡我只花了53.1歐元，這個價格實在是超出了我的預期。而且，我還可以享受退稅的優惠，真的可以說是賺到了。</p>

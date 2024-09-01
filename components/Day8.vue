@@ -4,18 +4,18 @@
     <div class="text-lg">
         <p class="p-2">今天整個早上我們度過在坐車的時間，直到中午才終於到達目的地。經過一頓美味的午餐後，我們前往了旁邊的蒂蒂湖。</p>
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/Titisee.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md" src="https://imgur.com/ZmUq1Jv.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" />
         </div>
         <p class="p-2">上船後，我發現我們竟然包船!</p>
 
         <div class="flex flex-wrap">
             <div class="p-2 w-full md:w-2/3">
-                <NuxtImg class="rounded-md" src="/20230611_150253.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md" src="https://imgur.com/tNs3TqB.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" />
             </div>
             <div class="p-2 w-full md:w-1/3">
-                <NuxtImg class="rounded-md" src="/20230611_143325.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md" src="https://imgur.com/hogq2lD.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
             </div>
         </div>
