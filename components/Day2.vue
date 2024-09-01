@@ -15,15 +15,13 @@
     </div>
     <p class="p-2">一抵達目的地後，我們立即前往了第一個景點——羅騰堡。</p>
 
-    <div class="flex justify-center">
+    <div class="flex flex-wrap md:flex-nowrap justify-center">
       <div class="p-2">
         <NuxtImg
           class="rounded-md"
           src="https://imgur.com/gf2FVbH.jpeg"
           placeholder="/loading.gif"
           loading="lazy"
-          width="50%"
-          height="50%"
         />
       </div>
       <div class="p-2">
@@ -32,8 +30,6 @@
           src="https://imgur.com/BX75HIE.jpeg"
           placeholder="/loading.gif"
           loading="lazy"
-          width="50%"
-          height="50%"
         />
       </div>
     </div>

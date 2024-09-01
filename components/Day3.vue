@@ -38,7 +38,7 @@
       教學工廠展示了SIEMENS在工業領域的培訓和技術支援方面的專業能力。我們看到了各種設備和模型，用於演示和培訓PLC系統、自動化控制、機器人技術等領域的應用。透過這些模型和實際操作，我們能更深入地理解SIEMENS技術的運作原理和應用場景。
     </p>
 
-    <div class="flex justify-center">
+    <div class="flex flex-wrap md:flex-nowrap justify-center">
       <div class="p-2">
         <NuxtImg
           class="rounded-md w-full"

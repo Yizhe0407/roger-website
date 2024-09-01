@@ -13,7 +13,8 @@
         class="rounded-md"
         src="https://imgur.com/d6db9tU.jpeg"
         placeholder="/loading.gif"
-        loading="lazy"width="50%"
+        loading="lazy"
+        width="50%"
         height="50%"
       />
     </div>
@@ -21,14 +22,15 @@
       下午，我們前往慕尼黑國際設計博物館見習。我們這組要準備一份關於設計博物館和德意志博物館的報告，這使得我們更加專注於參觀和研究。
     </p>
 
-    <div class="flex justify-center">
+    <div class="flex flex-wrap md:flex-nowrap justify-center">
       <div class="p-2">
         <NuxtImg
           class="rounded-md w-full"
           src="https://imgur.com/02nWbT3.jpeg"
           placeholder="/loading.gif"
-          loading="lazy"width="50%"
-        height="50%"
+          loading="lazy"
+          width="50%"
+          height="50%"
         />
       </div>
       <div class="p-2">
@@ -36,8 +38,9 @@
           class="rounded-md w-full"
           src="https://imgur.com/u8Kl8wv.jpeg"
           placeholder="/loading.gif"
-          loading="lazy"width="50%"
-        height="50%"
+          loading="lazy"
+          width="50%"
+          height="50%"
         />
       </div>
     </div>
@@ -53,7 +56,8 @@
         class="rounded-md w-full md:w-1/3"
         src="https://imgur.com/nuuPiri.jpeg"
         placeholder="/loading.gif"
-        loading="lazy"width="50%"
+        loading="lazy"
+        width="50%"
         height="50%"
       />
     </div>
