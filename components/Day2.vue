@@ -4,7 +4,7 @@
     <div class="text-lg">
         <p class="p-2">經過了漫長的飛行後終於在德國時間早上七點抵達Frankfurt。</p>
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/airplane.jpg" sizes="100vw sm:50vw md:400px" placeholder="/loading.gif"
+            <NuxtImg class="rounded-md" src="/https://i.imgur.com/seJELUU.jpeg" sizes="100vw sm:50vw md:400px" placeholder="/loading.gif"
                 loading="lazy" />
         </div>
         <p class="p-2">
@@ -13,22 +13,22 @@
 
         <div class="flex justify-center">
             <div class="p-2">
-                <NuxtImg class="rounded-md w-full" src="/20230605_113047.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md w-full" src="/https://i.imgur.com/gf2FVbH.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
             </div>
             <div class="p-2">
-                <NuxtImg class="rounded-md w-full" src="/20230605_113410.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md w-full" src="/https://i.imgur.com/BX75HIE.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
             </div>
         </div>
 
         <p class="p-2">中午時，我們來到了一家當地有百年歷史的餐廳，這也是我在德國的第一餐。這家餐廳以德式豬排風味餐而聞名。</p>
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/salad.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md" src="/https://i.imgur.com/iPmMLL2.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" />
         </div>
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/Pork Chops.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md" src="/https://i.imgur.com/RzKUS4U.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" />
         </div>
 
@@ -45,13 +45,13 @@
                 </p>
             </div>
             <div class="w-full md:w-1/3 p-2">
-                <NuxtImg class="rounded-md w-full" src="/castle.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md w-full" src="/https://i.imgur.com/1BtOJfy.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" />
             </div>
         </div>
 
         <div class="p-2">
-            <NuxtImg class="rounded-md" src="/20230605_171050.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md" src="/https://i.imgur.com/lZu5nx3.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" />
         </div>
 
@@ -61,12 +61,12 @@
                     晚上，我們在紐倫堡的老城區體驗紐倫堡著名的特色美食-小肉腸。剛上菜時香氣撲鼻，我咬下的第一反應是好鹹，雖然吃起來鮮嫩多汁，但如果沒有那坨酸菜搭配，我可能吃完兩根就陣亡了。
                 </p>
                 <div class="p-2">
-                    <NuxtImg class="rounded-md" src="/20230605_182610.jpg" placeholder="/loading.gif" loading="lazy"
+                    <NuxtImg class="rounded-md" src="/https://i.imgur.com/39KS36w.jpeg" placeholder="/loading.gif" loading="lazy"
                         sizes="100vw sm:50vw md:400px" />
                 </div>
             </div>
             <div class="w-full md:w-1/3 p-2">
-                <NuxtImg class="rounded-md" src="/sausage.jpg" placeholder="/loading.gif" loading="lazy"
+                <NuxtImg class="rounded-md" src="/https://i.imgur.com/Gqaf4t8.jpeg" placeholder="/loading.gif" loading="lazy"
                     sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
             </div>
         </div>
@@ -75,7 +75,7 @@
             吃過晚餐後，我們乘坐車子大約一小時，終於到達了我們待三晚的飯店。這間飯店位置很方便，就在火車站附近。晚上我們有些空閒時間，決定到外面逛逛，欣賞一下飯店周圍的風景和人文氛圍。
         </p>
         <div class="p-2">
-            <NuxtImg class="rounded-md w-full md:w-1/3" src="/hotel.jpg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md w-full md:w-1/3" src="/https://i.imgur.com/lJBbsGZ.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
         </div>
         <p class="p-2">
