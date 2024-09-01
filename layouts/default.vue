@@ -79,7 +79,7 @@
             </label>
             <NuxtLink
               to="/"
-              class="text-white mx-auto font-semibold text-lg rounded-lg hover:bg-[#384046] px-4 py-2"
+              class="text-white font-semibold text-lg rounded-lg hover:bg-[#384046] px-4 py-2 mx-auto absolute left-1/2 transform -translate-x-1/2"
             >
               Roger Web
             </NuxtLink>
