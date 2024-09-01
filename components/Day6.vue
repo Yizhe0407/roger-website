@@ -4,7 +4,7 @@
     <div class="text-lg">
         <p class="p-2">今天早上，我們前往了德意志博物館見習。由於這座博物館實在是太大了，即使花上整個上午的時間也難以完全參觀完畢。因此，我決定專注於我最感興趣的展覽項目。</p>
         <div class="p-2">
-            <NuxtImg class="rounded-md w-full md:w-1/3" src="https://imgur.com/Q1jl4tsi.jpeg" placeholder="/loading.gif"
+            <NuxtImg class="rounded-md w-full md:w-1/3" src="https://imgur.com/Q1jl4ts.jpeg" placeholder="/loading.gif"
                 loading="lazy" sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
         </div>
         <p class="p-2">在德意志博物館裡，展示了豐富多樣的歷史文物和科技成就。我對於科學和技術方面都有著濃厚的興趣，所以我專注參觀了與這些主題相關的展區。</p>
