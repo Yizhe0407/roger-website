@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss', '@nuxt/image'],
   devtools: { enabled: true },
   image: {
-    domains: ['imgur']
+    domains: ['imgur.com']
   },
 
   // 配置插件
