@@ -1,19 +1,15 @@
 <template>
   <div class="flex h-full w-full bg-[#1d232a]">
     <!-- 桌面端侧边栏 -->
-    <nav
-      class="hidden lg:flex flex-col items-center w-64 bg-[#191e24] p-4 fixed h-full top-0 z-10 justify-between"
-    >
+    <nav class="hidden lg:flex flex-col items-center w-72 bg-[#191e24] p-4 fixed h-full top-0 z-10 justify-between">
       <!-- 包含个人信息和菜单的顶部部分 -->
       <div class="flex flex-col w-full">
         <ProfilePicture />
-        <ul class="flex flex-col gap-4 text-center">
-          <li v-for="(item, index) in menuItems" :key="index" class="w-full">
-            <NuxtLink
-              :to="item.path"
-              class="btn btn-ghost w-24 text-white"
-              @click="closeDrawer"
-            >
+        <ul class="flex flex-col gap-8 p-4">
+          <li v-for="(item, index) in menuItems" :key="index" class="flex justify-center">
+            <NuxtLink :to="item.path"
+              class="inline-block rounded-lg p-2 w-32 text-white font-bold text-lg text-center hover:bg-[#353b42]"
+              @click="closeDrawer">
               {{ item.name }}
             </NuxtLink>
           </li>
@@ -35,16 +31,12 @@
       <input id="my-drawer" type="checkbox" class="drawer-toggle" />
       <div class="drawer-content flex flex-col">
         <!-- 移动端导航栏 -->
-        <nav
-          class="w-full bg-[#191e24] p-4 flex justify-between items-center fixed top-0 z-20"
-        >
+        <nav class="w-full bg-[#191e24] p-4 flex justify-between items-center fixed top-0 z-20">
           <label for="my-drawer" class="btn btn-square btn-ghost">
             <font-awesome-icon :icon="['fas', 'bars']" size="xl" />
           </label>
-          <NuxtLink
-            to="/"
-            class="text-white font-semibold text-lg rounded-lg hover:bg-[#384046] px-4 py-2 mx-auto absolute left-1/2 transform -translate-x-1/2"
-          >
+          <NuxtLink to="/"
+            class="text-white font-semibold text-lg rounded-lg hover:bg-[#384046] px-4 py-2 mx-auto absolute left-1/2 transform -translate-x-1/2">
             Roger Web
           </NuxtLink>
         </nav>
@@ -57,17 +49,14 @@
         </div>
       </div>
       <div class="drawer-side fixed top-0 h-full z-20">
-        <label
-          for="my-drawer"
-          aria-label="close sidebar"
-          class="drawer-overlay"
-        ></label>
+        <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
 
-        <ul class="menu bg-base-200 text-base-content min-h-full w-80 p-4">
+        <ul class="flex flex-col gap-8 p-4 bg-[#191e24] w-64 h-full">
           <!-- 侧边栏内容 -->
           <ProfilePicture />
-          <li v-for="(item, index) in menuItems" :key="index">
-            <NuxtLink :to="item.path" @click="closeDrawer">
+          <li v-for="(item, index) in menuItems" :key="index" class="flex justify-center">
+            <NuxtLink :to="item.path" @click="closeDrawer"
+              class="inline-block rounded-lg p-2 w-32 text-white font-bold text-lg text-center hover:bg-[#353b42]">
               {{ item.name }}
             </NuxtLink>
           </li>
