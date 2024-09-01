@@ -1,6 +1,6 @@
 <!-- index.vue -->
 <template>
-  <section class="flex-auto p-6 mt-4">
+  <section class="flex-auto py-6">
     <h2 class="text-5xl font-bold mb-2">廖邑哲</h2>
     <h3 class="text-3xl font-bold py-2">Website Engineer and Entrepreneur</h3>
     <p class="text-lg pt-4 pb-24">
