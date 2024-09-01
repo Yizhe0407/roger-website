@@ -9,6 +9,8 @@
         src="https://imgur.com/seJELUU.jpeg"
         placeholder="/loading.gif"
         loading="lazy"
+        width="50%"
+        height="50%"
       />
     </div>
     <p class="p-2">一抵達目的地後，我們立即前往了第一個景點——羅騰堡。</p>
@@ -16,18 +18,22 @@
     <div class="flex justify-center">
       <div class="p-2">
         <NuxtImg
-          class="rounded-md w-full"
+          class="rounded-md"
           src="https://imgur.com/gf2FVbH.jpeg"
           placeholder="/loading.gif"
           loading="lazy"
+          width="50%"
+          height="50%"
         />
       </div>
       <div class="p-2">
         <NuxtImg
-          class="rounded-md w-full"
+          class="rounded-md"
           src="https://imgur.com/BX75HIE.jpeg"
           placeholder="/loading.gif"
           loading="lazy"
+          width="50%"
+          height="50%"
         />
       </div>
     </div>
@@ -41,6 +47,8 @@
         src="https://imgur.com/iPmMLL2.jpeg"
         placeholder="/loading.gif"
         loading="lazy"
+        width="50%"
+        height="50%"
       />
     </div>
     <div class="p-2">
@@ -49,6 +57,8 @@
         src="https://imgur.com/RzKUS4U.jpeg"
         placeholder="/loading.gif"
         loading="lazy"
+        width="50%"
+        height="50%"
       />
     </div>
 
@@ -70,6 +80,8 @@
           src="https://imgur.com/1BtOJfy.jpeg"
           placeholder="/loading.gif"
           loading="lazy"
+          width="50%"
+          height="50%"
         />
       </div>
     </div>
@@ -80,6 +92,8 @@
         src="https://imgur.com/lZu5nx3.jpeg"
         placeholder="/loading.gif"
         loading="lazy"
+        width="50%"
+        height="50%"
       />
     </div>
 
@@ -94,6 +108,8 @@
             src="https://imgur.com/39KS36w.jpeg"
             placeholder="/loading.gif"
             loading="lazy"
+            width="50%"
+            height="50%"
           />
         </div>
       </div>
@@ -103,6 +119,8 @@
           src="https://imgur.com/Gqaf4t8.jpeg"
           placeholder="/loading.gif"
           loading="lazy"
+          width="50%"
+          height="50%"
         />
       </div>
     </div>
@@ -116,6 +134,8 @@
         src="https://imgur.com/lJBbsGZ.jpeg"
         placeholder="/loading.gif"
         loading="lazy"
+        width="50%"
+        height="50%"
       />
     </div>
     <p class="p-2">
