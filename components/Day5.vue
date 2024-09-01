@@ -28,7 +28,7 @@
         <p class="p-2">設計博物館內，這些作品展示了設計的多樣性和創新性，從產品設計到建築設計，從平面設計到工業設計，每一個展品都散發著獨特的魅力和智慧。</p>
         <p class="p-2">接著，我們前往了位於BMW總部旁的BMW展覽館。進入展覽館，這還是我第一次近距離看到如此多的BMW。</p>
         <div class="p-2">
-            <NuxtImg class="rounded-md w-full md:w-1/3" src="https://imgur.com/nuuPir.jpeg" placeholder="/loading.gif" loading="lazy"
+            <NuxtImg class="rounded-md w-full md:w-1/3" src="https://imgur.com/nuuPiri.jpeg" placeholder="/loading.gif" loading="lazy"
                 sizes="100vw sm:50vw md:400px" :modifiers="{ rotate: 90 }" />
         </div>
         <p class="p-2">然而，由於我對車子並沒有太多研究和了解，所以在這個展覽館中我沒有像其他人一樣激動和興奮。雖然我沒有深入瞭解每一款車的技術規格和特點，但我仍然能欣賞到BMW所代表的品牌價值和精神。</p>
