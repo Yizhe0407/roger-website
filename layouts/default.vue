@@ -1,5 +1,5 @@
 <template>
-    <div class="flex h-full w-full">
+    <div class="flex h-full w-full bg-[#1d232a]">
       <!-- Sidebar for Desktop -->
       <nav
         class="hidden lg:flex flex-col items-center w-64 bg-[#191e24] p-4 fixed h-full top-0 z-10 justify-between"
