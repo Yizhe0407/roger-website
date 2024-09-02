@@ -2,7 +2,7 @@
 <template>
   <section class="flex-auto py-8 md:py-16 px-2">
     <h2 class="text-5xl font-bold mb-2">廖邑哲</h2>
-    <h3 class="text-3xl font-bold py-2">Website Engineer and Entrepreneur</h3>
+    <h3 class="text-3xl font-bold py-2">Website Engineer and Student</h3>
     <p class="text-lg pt-4 pb-24">
       目前就讀於雲林科技大學資訊工程學系。對於網站開發有興趣，正在學習前端技術與後端技術。
     </p>
