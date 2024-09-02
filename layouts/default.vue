@@ -8,8 +8,7 @@
         <ul class="flex flex-col gap-8 p-4">
           <li v-for="(item, index) in menuItems" :key="index" class="flex justify-center">
             <NuxtLink :to="item.path"
-              class="inline-block rounded-lg p-2 w-32 text-white font-bold text-lg text-center hover:bg-[#353b42]"
-              @click="closeDrawer">
+              class="inline-block rounded-lg p-2 w-32 text-white font-bold text-lg text-center hover:bg-[#353b42]">
               {{ item.name }}
             </NuxtLink>
           </li>
@@ -21,9 +20,7 @@
 
     <!-- 内容区域（移动端隐藏） -->
     <div class="hidden lg:flex flex-1 ml-64 justify-center items-center">
-      <div class="w-full max-w-screen-lg p-4">
-        <slot />
-      </div>
+      <slot />
     </div>
 
     <!-- 移动端抽屉 -->
@@ -43,9 +40,7 @@
 
         <!-- 内容区域（桌面端隐藏） -->
         <div class="block lg:hidden flex-1 mt-16 justify-center items-center">
-          <div class="w-full max-w-screen-lg p-4">
-            <slot />
-          </div>
+          <slot />
         </div>
       </div>
       <div class="drawer-side fixed top-0 h-full z-20">
